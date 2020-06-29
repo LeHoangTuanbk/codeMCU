@@ -1,4 +1,4 @@
-#include <LiquidCrystal_I2C.h>
+﻿#include <LiquidCrystal_I2C.h>
 
 #include <Wire.h>
 
@@ -22,3 +22,4 @@ void setup() {
 void loop()
 { // do nothing here 
   }
+ // this is a test for git
